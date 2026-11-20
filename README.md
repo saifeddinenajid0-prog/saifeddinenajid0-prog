@@ -9,10 +9,10 @@ Je m'intéresse à l'**analyse de données**, au **machine learning** et à la *
 
 ## 🛠️ Compétences
 
-**Langages** : Python · SQL · C / C++ · HTML / CSS / JavaScript
-**Data** : Pandas · NumPy · Matplotlib · Jupyter
-**Collecte de données** : Requests · BeautifulSoup · Selenium · API REST
-**Outils** : Git / GitHub · VS Code · Microsoft Office
+- **Langages** : Python · SQL · C / C++ · HTML / CSS / JavaScript
+- **Data** : Pandas · NumPy · Matplotlib · Jupyter
+- **Collecte de données** : Requests · BeautifulSoup · Selenium · API REST
+- **Outils** : Git / GitHub · VS Code · Microsoft Office
 
 ---
 
