@@ -21,8 +21,8 @@ Je m'intéresse à l'**analyse de données**, au **machine learning** et à la *
 | Projet | Description | Stack |
 |---|---|---|
 | [**Data Hunter Challenge**](https://github.com/saifeddinenajid0-prog/data-hunter-challenge) | Collecte de données sur 3 sources Web (scraping statique, API REST, scraping dynamique) et audit qualité pour le Data Mining | Python · BeautifulSoup · Selenium · Pandas |
-| **ServeGusto** *(bientôt en ligne)* | Robot serveur autonome pour restaurants (projet TIPE) : navigation, capteurs, caméra, application mobile de supervision | Raspberry Pi · Python · SysML |
-| **Bot Discord** *(en cours)* | Bot Discord intelligent | Python · discord.py |
+| **ServeGusto** *(cpge)* | Robot serveur autonome pour restaurants (projet TIPE) : navigation, capteurs, caméra, application mobile de supervision | Raspberry Pi · Python · SysML |
+| **Bot Discord** *(bientôt en ligne)* | Bot Discord intelligent | Python · discord.py |
 
 ---
 
