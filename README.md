@@ -1,4 +1,7 @@
 # Salut, je suis Saifeddine 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+Data+%40+INPT;Python+%C2%B7+SQL+%C2%B7+Pandas+%C2%B7+Machine+Learning;Web+scraping+%26+analyse+de+donn%C3%A9es;%C3%80+la+recherche+d'un+stage+PFA" alt="Texte animé" />
+</p>
 
 Élève ingénieur en **Génie informatique, option Science de Données** à l'**INPT (Rabat)**, après deux ans de classes préparatoires au LM6E Benguerir.
 Je m'intéresse à l'**analyse de données**, au **machine learning** et à la **collecte de données Web**.
