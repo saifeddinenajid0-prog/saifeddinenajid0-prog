@@ -36,3 +36,9 @@ Arabe (langue maternelle) · Français (avancé) · Anglais (intermédiaire – 
 ## 📫 Me contacter
 
 [LinkedIn](https://www.linkedin.com/in/saifeddine-najid-299303296/)
+## 📈 Mon activité
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifeddinenajid0-prog/saifeddinenajid0-prog/output/github-snake-dark.svg" />
+  <img alt="Serpent de contributions" src="https://raw.githubusercontent.com/saifeddinenajid0-prog/saifeddinenajid0-prog/output/github-snake.svg" />
+</picture>
